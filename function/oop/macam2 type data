@@ -1,0 +1,17 @@
+Apa itu tipe data?
+tipe data adalah klasifikasi value suatu variabel yang membantu operasi komputer untuk mengenali nilai
+data  tanpa menghasilkan output error.
+
+macam macam tipe data 
+1.Array
+tipe data untuk menyimpan sejumlah elemen dalam urutan tertentu.
+2.String
+  tipe data yang berisi kumpulan  karakter,angka, atau simbol
+3.Floating point
+  floating point adalah tipe data numeriik yang menyatakan angka dengan nominal pecahan.
+  contohnya: 98,5,0.078.
+4.boolean
+  boolean adalah tipe data yang menyatakan true atau false
+5.character 
+  character adalah tipe data yang digunakan untuk menyatakan satu angka,huruf,atau special
+  
